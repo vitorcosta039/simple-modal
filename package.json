@@ -1,0 +1,23 @@
+{
+  "name": "simple-modal",
+  "version": "1.0.0",
+  "description": "Simple Modal",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorcosta039/simple-modal.git"
+  },
+  "keywords": [
+    "modal",
+    "simple"
+  ],
+  "author": "Vitor Costa <vitorcosta588@gmail.com> (https://vitorcosta.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorcosta039/simple-modal/issues"
+  },
+  "homepage": "https://github.com/vitorcosta039/simple-modal#readme"
+}
