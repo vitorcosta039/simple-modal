@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vitorcosta039/simple-modal/issues"
   },
-  "homepage": "https://github.com/vitorcosta039/simple-modal#readme"
+  "homepage": "https://github.com/vitorcosta039/simple-modal#readme",
+  "devDependencies": {
+    "eslint": "^8.5.0"
+  }
 }
